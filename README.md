@@ -26,15 +26,16 @@ A collection of TypeScript utilities, classes, and asynchronous workflows demons
 
 ### 2. Conceptual Guides
 
-* **[Type Aliases vs. Interface](https://github.com)** (`type-vs-interface.md`)  
+* **[Type Aliases vs. Interface](https://github.com/imuimuimran/next-level-B8A1/blob/main/type-vs-interface.md)** (`type-vs-interface.md`)  
   A deep-dive guide contrasting `type` and `interface` declarations. It highlights how interfaces support declaration merging and class enforcement, while type aliases excel with unions, intersections, primitives, and complex tuples.
   
-* **[Type Narrowing Guide](https://github.com)** (`type-narrowing.md`)  
+* **[Type Narrowing Guide](https://github.com/imuimuimran/next-level-B8A1/blob/main/type-narrowing.md)** (`type-narrowing.md`)  
   An explanatory guide on refining broad union types into specific types safely. It demonstrates how to leverage JavaScript operators (`typeof` for primitives, `instanceof` for class instances, and `in` for property checks) to satisfy the TypeScript compiler.
 
 ---
 
 ## 🔗 Quick Links
 
-* [View Type Narrowing Guide on GitHub](https://github.com)
-* [View Type vs. Interface Guide on GitHub](https://github.com)
+* [View Type vs. Interface Guide on GitHub](https://github.com/imuimuimran/next-level-B8A1/blob/main/type-vs-interface.md)
+* [View Type Narrowing Guide on GitHub](https://github.com/imuimuimran/next-level-B8A1/blob/main/type-narrowing.md)
+
